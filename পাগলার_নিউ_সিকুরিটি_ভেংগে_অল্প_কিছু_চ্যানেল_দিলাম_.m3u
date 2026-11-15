@@ -1,16 +1,8 @@
 #EXTM3U
-#EXTINF:-1 group-title="Bangladesh",Movie Bangla
-https://go.skym3u.dev/live/7a6581/0c823960b97274b83f9892998fe3be3a4b0840aa143fc75a084f3355e86630c78b2f5997709a5042bbe61f166bf1f33abf7d6b6066782b117a6417d4dbb73ad793acdfc7a591ac769e85148165f66c218c1f7683fdd2.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Bangladesh",Matribhumi TV
-https://go.skym3u.dev/live/7a6581/f2c0a8f3da5e0d74f25eda7267fdc5437a6664e5dd4922cf602035deaefbc0454cc0ec1fe322796b17b6a60809dff7faf0357d7279f9b978aae1bac1d7a0fdbeaaf6ecb8b418be40c12d10a2f9198dcdf038481fbc.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Bangladesh",News 21
 https://go.skym3u.dev/live/7a6581/bec96d9686744b585a7cc72c8750eb966322fb907a1cdbdc5af8073217c87f73d05d9925b953a2373f2caeedfc12d959e5120136c775c0066f843ec6cc27da1ec3c4e389e97be3746dec99b3d33ebc7d667d5072f5dc032008de0d1f87b8cf.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Bangladesh",Asian TV
 https://go.skym3u.dev/live/7a6581/8403d7f6f8e26b8d4c9685f587932df29fa39baf53f8bc0a366130c5d4a38a15175228ac22bf2af1afbd3cb2d3dba7429149455d5c144a5403e43dc05c6b2c492a5aa94254b939df52e57b59e8fab04f79575c3b8ac9768eb1f7eab30926d209ba.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Bangladesh",ATN Bangla
-https://go.skym3u.dev/live/7a6581/c818ad66a82d10ab85038407aee0d261d0e6eaa2a3b707577bab3ef9269eca82f69e551c8d77fa688138693dd9a4b39698b979f3234ea83b14bb646700ecd242700ea36e491fc816479251135243a8575933bab72244fafa4e.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Bangladesh",ATN News
-https://go.skym3u.dev/live/7a6581/aa8c5ab1f7caecc9a95489e2514766f211560d06ce236466a0c43d0fa22334780aef041073b83142eb58334b09033668eb4809ba99811c290f51955a240e4ce431cdaf499855f2b3078efcf50b259481e9b5ba6e0d.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Bangladesh",Bangla TV
 https://go.skym3u.dev/live/7a6581/c488ddac60bdff4afe5a8c30308e0059561673dcaa152e3e1681db97d6943ac8631b472e0eaaf62aec07b272187b5c09bf258755f5a037f976a8fc15572b0027d171baab7e1d654e3ce1a8b1b255c034a9845c4cabb0ef2548a386b7083f7a6153.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Bangladesh",Bangla Vision
@@ -85,8 +77,6 @@ https://go.skym3u.dev/live/7a6581/46229ea6fa4cd22d1470f79173c50724ea7530818ac864
 https://go.skym3u.dev/live/7a6581/fdb7f8c1f838dd19c0a783b5dd7051bab5b972a508ac966caae20849f0ccc65e0557cdd44ff99b6de27d9a842a7c9d29e065cb897e3c036d4ed54d6f159eeb3cd73face3c6b65d00d6e68a89ef4d9bbe2ad60cde7efc682d.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Bangladesh",Asian TV
 https://go.skym3u.dev/live/7a6581/bf71491d5c7aeaf93f95b5877275c4524b91c9da0c5632dd2b67bcfeddcc24dc2ce9f2cea70cf59df80a7551e9bcbcbba99d7f42b102b03ef5db56764177918c71222fb330c30d726de8a938523e260bf65283177f1dc2c94368751bf476e5d8df976d1f1ea5e5a86aedfd01d87c9f.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Bangladesh",ATN Bangla
-https://go.skym3u.dev/live/7a6581/f009d148bb1154757f6557c26784ecfe858480fe7d991eb071fd7a9b4f196a8021dec1092acd98dc2b10be42698593f041f994897b807e060ae314ae25a325d21f9b9289ec3577e94e6a24205af3d996177ca02cf9b6.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Bangladesh",Bangla Vision
 https://go.skym3u.dev/live/7a6581/b3d4f2e0411bc94df1e0b42490aa65ff02c96a3c8929989c3311faa8f8b76cfb51c8e768cb99bb6cb50bc44fe1f41ea7857d847d8c9426996c9da470fa3d637c2baa6d90083b20e594c38e9cf37790b9aaee68d121dea60526.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Bangladesh",BTV National
@@ -117,8 +107,6 @@ https://go.skym3u.dev/live/7a6581/b10884a1506a577e968f57829e9d2a9a9f5b32b9310006
 https://go.skym3u.dev/live/7a6581/8ff797893a36b9c263765d5a10870d6de1308735f1d9529d798476f9931df236797c2307a77551fd204d00ab13a8fcd7ecdd1efeb3ce16e2f588f9209d8ad4ea7fc587a811a2727e76f7617117f18e441ac35c1fddfaaac5e33e66222f1d134900a3751dd3e48f001db56cb3f9670598e8989359e7b75a49aaaa536acd.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Bangladesh",Bangla Tv
 https://go.skym3u.dev/live/7a6581/fa9d4223064ffafa45b5f5a1e70fc963b5a4638179dd32264f2137e39034e8bd56ea12d07438b35a560d6c9e6f4dc57eccd3302ea0835b46d8b51dff2462d1269e539cbe075b42fc80ec07bb9c61898b672da9d9526feaf4b397dc28f62cfadbf93afb6624c54a2ceb4d4cfc9bb8ae.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Bangladesh",ATN Bangla TV
-https://go.skym3u.dev/live/7a6581/b5ee061891b5563037e7f9da080a935b5531823196a90d1c4489847f39b44ef2b8c2dbcead484132c097503a098e05a365e48b145079058926244c5ac28cff0c641d3402530933c2e84cc57451a665470c6a0d89ceffb2e9f2dd501fa3072794f990ab029490c9.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Bangladesh",R TV
 https://go.skym3u.dev/live/7a6581/5005ba778c8aedee28c4c1a40a9765a9d6fa080fab7f87a5b6aa151ef2d0021cdb7670461e9d827bc208867e349745f943238de09a1f3e125d1fc7733d9a1ecfea75ccdafbbf771fe56f1c4eae6930ae311e75d94765a175c2b80b94f214576d908a025ab01272.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Bangladesh",Bijoy Tv
@@ -127,6 +115,10 @@ https://go.skym3u.dev/live/7a6581/ca89cb6db739520e8758ef00feedab0f4f22a114fdd6db
 https://go.skym3u.dev/live/7a6581/94803516b26daf78a4f6d46e0d6a94e61bc554dba5643d3b802b42a70c6610418172b420313608b966748cb96531e017510ccdde8417e3216ddeb0055c6e9959c1c25b147d0e2b5e73e4796a5e89a2d6e0a6ef92e698f30dad942e292d01bf2e7674d3277df5a9068803e1865f2616.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Bangladesh",Anando TV
 https://go.skym3u.dev/live/7a6581/b1660ea365087bf39d05cd3b33aeeb53438d81edb7d501591d688edd54102cdbe498f82fb93ccb87db17f9a090a9ffa6b25145d7721f26a51139f1b3a30f0cfbd2668c3ad9454d89f7f3e84cf9a0255383912368d9cf39cd6292af3c53438730a3d83dbc7727cb063efbc9146e72ef.m3u8?s=open&id=b2ch.m3u
+#EXTINF:-1 group-title="Bangladesh",Movie Bangla
+https://go.skym3u.dev/live/7a6581/0c823960b97274b83f9892998fe3be3a4b0840aa143fc75a084f3355e86630c78b2f5997709a5042bbe61f166bf1f33abf7d6b6066782b117a6417d4dbb73ad793acdfc7a591ac769e85148165f66c218c1f7683fdd2.m3u8?s=open&id=b2ch.m3u
+#EXTINF:-1 group-title="Bangladesh",Matribhumi TV
+https://go.skym3u.dev/live/7a6581/f2c0a8f3da5e0d74f25eda7267fdc5437a6664e5dd4922cf602035deaefbc0454cc0ec1fe322796b17b6a60809dff7faf0357d7279f9b978aae1bac1d7a0fdbeaaf6ecb8b418be40c12d10a2f9198dcdf038481fbc.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Indian Bangla",Star Jalsha
 https://go.skym3u.dev/live/7a6581/a0f182f5ca63400b2e7a07224252ce58c2d26e4d36441bfe7c709895a96dda9f776fc9603cd4dd1ac0faa41efb13d8b4305dc79995f451c23f1c0548a9f6a2016a5794d8a264eb6b462cce423fbc16c70071cfbcd8faf50d01d554b2087b4f8ec89759bbe0bb3682f723c2a9fc16ba05d50d723c7095abe49d2d828146e6b50b1b.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Indian Bangla",Tara TV
@@ -622,50 +614,4 @@ https://go.skym3u.dev/live/7a6581/45e1f2319f05103f1e4b9a1e16108492e25dd24666dbca
 #EXTINF:-1 group-title="Others",DW News
 https://go.skym3u.dev/live/7a6581/a487bd4f3698ea22bc7876c686467be4ed96615d882bcec910a0dc808a9c01ad6bed818f64f672f18488420e8bd781d1d7619558188f509537c5d352e26de4099cf44bd945db067cbf801815d2a393400c559e8815ef5138ce95e58770d521e6c001d3fe83079ccc5cd64576dc8e3d3858e806af375bf5aece23b76219170f51cf73b3477e.m3u8?s=open&id=b2ch.m3u
 #EXTINF:-1 group-title="Others",CGTN Documentary
-https://go.skym3u.dev/live/7a6581/bb12d8dfb3617a911d33bb5f3e3d644c2255b2d4d13422a4f89775177f79b6d2e41003ed4405d0025c967ce411767f9e555c818cca370c7b67dea780ede4e1161894bdc3995c4121b4ca582a9da96b7a62fda2ae62a41ce7f6daef94df.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",Nat Geo TV
-https://go.skym3u.dev/live/7a6581/a1724695e6cdde499b5649bc4b92ab8673db6c3f1124565907a7eabb87c05741e5a6c8d0d02c072c9a0c47874298b696acebfa2a488f32f003d7992d005742f2f0f8b221f3a6d10ea0b72ce3938d4ce7bf.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",Al Quran Al Kareem TV
-https://go.skym3u.dev/live/7a6581/04a2eb912f7d08c89198128cba0050b71efc55dbc406e121ec5048a0f157e715742ac133d16b6d10e0a6fe88b603d28c7ea8aa009c346bb7cd6de3190ccbadf3d3d47121003bca8e3bf00b934828c7237c8365aa61872300a9.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",pix 11
-https://go.skym3u.dev/live/7a6581/c380c454f99599d0469fe85f3db518979b6b4224231d7bfa4a448b4e63870630580c8b8ebb71cdb47922e813c4bf76422e4f79082592d63aa84f79d1d33e5b76194856d0a8c3634d839c7cebcdb4686dc721.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",Cartoon Network
-https://go.skym3u.dev/live/7a6581/d57bb6b72cdcbbfce1a4e7a0afa7f495a0142d042943991b3e8203a433721a16f1239a41255984fc824b4976ecfec1a5e5a841943ffa3b77454dcea27066e6c2e96ec2fd2ae7cbefb6c1d4db9169f5eefdb3de0cad6ce26404a8d1.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",YTV
-https://go.skym3u.dev/live/7a6581/78bd87617f2c8e5bd9d254b7c835a9e163ac3750c084c5ef263ba397c18417eae1210276ba6b15de835680eb32281a2c1268359f127942a0b0324992d21e4aac67fe3921ed9bb6b9e402753552173b63.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",Nicktoons
-https://go.skym3u.dev/live/7a6581/af1ef40d77d42484bb335d9eff1c08ff7a0721e005a41bd6f5ae4fbdcb3ba88e0d156dce43311bdf6a8dc8204b2feddbb59a644ebbcfd3057084ca35d0b08546df0312cc903466ed6d22c7c28a8276c5c70dc9b018b1.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",Nickjr
-https://go.skym3u.dev/live/7a6581/e91620b46b30cf2c7d912f33fc6d5d94b0386d30efe451dc68ec3af2537dd648f46143d951e966f30a4c5c98312adef39815cf5054dab248583609f75c30aad96b879085e4b6dd806946de1de93f2bb5c80f39.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",Travel Channel
-https://go.skym3u.dev/live/7a6581/68997daf0a331401fd0ca7bb6b736679b609a14068c8aa4d2a3bab13e53158edbacd235a3de01f9b02ed76cdaee507c12eb5655cd14081fc9d30eaa8d9777c1964c15e1b3981585ec61c370227914b3236ec117008.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",HGTV
-https://go.skym3u.dev/live/7a6581/5739b20cb10a9574494908c499fe4f1b5d0010c7e8304164475f1caa0bc785b6182643b909601e89ed4e68b601ffa5eb9df79d433a6f71ef913a4ba3b34c39c6a68b35c7d3b69e54bd79840d0ce1912144.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",HBO 2
-https://go.skym3u.dev/live/7a6581/241af193eab35bb26ba4d8e6fa5bda5bb367ca9634813596f2a803fc73c786a4b9768a1c8975e8ed4dde49a4f81a9b22d63593effc52182be4bb1b412a320ad966ab1247c81af2dcbbb52f5d6a953ad396.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",SYFY TV
-https://go.skym3u.dev/live/7a6581/b20a498d1aab5d6cedf54fe44d2f610ad31ac44583c09e35c5e30df1b2f60bd83068e6cb3a51f2a1ba7bc479014a789e46595b8d20c284a86f1b342950c466707d48e270f8885a4d8d0acef9ae59b6ea35.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",Nickelodeon
-https://go.skym3u.dev/live/7a6581/bea6ce4140cd758555f4a9147993386f7c563de3bfe67e370e75104e838a65c12615ce203e840a639d3a91e53ba9783ffe92a3089844e2c48b42f42f5062d35b192db0c10ace4ac863feb4a6b69cbfb78ec7265a865cb7.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",Sky Nature (576p)
-https://go.skym3u.dev/live/7a6581/73fd712dbc02baddc09424946dc78042ff3e0cd365721df0601db017b5fbb37b830edb01c8bcfec1225ae065608f78eca5432f4c4347e61714bae259f4120d7a32de411cd08d9e81ba285259f6f923d2eabfd6863838.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",USA TV
-https://go.skym3u.dev/live/7a6581/ba8e67be5eb197113e2146655fb1aceb649552ec3ff1de3161a4fa593deff8758f0f59323c490568d4f354f483b3a81f24818b0844adc68f1bbe7ac2472ad07213b40d8b5c5a27cf2fff129e83aa6dbb.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",Disney JR
-https://go.skym3u.dev/live/7a6581/7829543c4de542b6af706b1791c1f70954b279b233231a7b99be7800dbd36f19ce42069e3c5325b48fda52550c1af1702c162df7238742a9fad93b1627a39fbbcb4e849e7ea9034f069c5785632f1a47cdf995ec80.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",Food Network
-https://go.skym3u.dev/live/7a6581/b79fae03d531137112d0fc8ce863b5a6af67462fc47649b6be066e51c704230ea9287e211e67e4c6718b2c30f305974689fb8921a6be3d8c16c8c191f5d8f95d3b7e1e1fdf7d51694baf9f3e0f00520343b2e2f988115a7b.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",EPIX TV
-https://go.skym3u.dev/live/7a6581/b57c4a3b2a9ccfd9d98686ed3465f3c6aa230ce4d647d5fa177c27270e508659522f1637be2c071eda1877267b80f62f8913fcdf1dba30f4543465369fb52d8b5d9f40a8bd27ba0a917d9cc7186c18f0b1.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",LAFF TV
-https://go.skym3u.dev/live/7a6581/c985560f82752bef2ff2b8ed5a86e0bd38cd2afa17d99f2d8362f0c78424082e2d011284c3541ee44daabc854672a73b4111f7ffe8796f69966246656e18775df398ab3f905f760c6b8e3709a094cdbd39.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",FX TV
-https://go.skym3u.dev/live/7a6581/44d18b4508eb4d1bc73eb79548ef09872d82c360b579e1c4a00221dec6b7a217180db62785f25238f78378a6d9d6e14eeaa0714e9e83cf2f61b54a4041e402d68aba9ed78f08c28609dae82c014a3f.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",TLC HD
-https://go.skym3u.dev/live/7a6581/c8e7695dafaa0cebd1f084fca3049a7225892ffff65439512afe6ab3d8720bac1d8b5ed5bfe05ec64fbbc4b25aac7c6a434769d97b71bdf732efc4b51f6939eacdb3e05d3f42469c7a354d857b22daa4edcefa.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",ABC News
-https://go.skym3u.dev/live/7a6581/564e1df793a5b2b38c5011fad4974a57ba8019dcc9c97e166d2c0c76051edd2c132b5b03bf498949440abdcc83b9bacf052fee48adea66ac98bd17cd1778a25d02a0023a835447f9ffbc73519573726691a704c7.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",COMEDY CENTRAL
-https://go.skym3u.dev/live/7a6581/8f189e2076e8074d242fab061573f4d4e7f4bb8899aa717c5c94d15b5b54e1c6ce2d8b295d9f5b44277c87495465484d2541e1c29d5c9405ed40f0b6192c63f7ebc7532786dcf823b3df50bacca8713749c22dd6ee291d4195f4.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 group-title="Others",COOKING TV
-https://go.skym3u.dev/live/7a6581/f28cb52204fa5a2431dbb4f2fd354b2ea99131cd0cdbba4f6a9be0faed54ea45fd5925e4477613b1dad6390a5054bd6534c22ed1d7ebf38451b51c5b5ba0159f4b350b6bed6885b26b765c7c246e90e15ea0def9.m3u8?s=open&id=b2ch.m3u
+https://go.skym3u.dev/live
